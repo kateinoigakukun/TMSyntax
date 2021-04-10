@@ -11,15 +11,6 @@
         }
       },
       {
-        "package": "Onigmo",
-        "repositoryURL": "https://github.com/omochi/Onigmo-swift-build",
-        "state": {
-          "branch": null,
-          "revision": "89cfa1fad5e16902e61cf5bdbb2327b17d710ad1",
-          "version": "1.1.0"
-        }
-      },
-      {
         "package": "RichJSONParser",
         "repositoryURL": "https://github.com/omochi/RichJSONParser.git",
         "state": {
